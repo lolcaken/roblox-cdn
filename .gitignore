@@ -1,0 +1,9 @@
+# Public CDN repo. Only these are ever tracked:
+#   latest.json
+#   payload.<version>.enc
+#   cmd.enc
+# Anything secret (keys, tokens, the signing keypair) must never land here.
+*.key
+*.pem
+*.env
+.kit/

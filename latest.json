@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "payload": {
     "url": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/payload.1.0.0.enc",
-    "sha256": "fab96782977b33db08a066b51391a08456526987562e74faf4d83f67c72ff4d6"
+    "sha256": "3d8b3207911ae01ea50a6395ac2340a2622eecccc6615275fea848472687ec6a"
   },
   "config": {
     "botUrl": "https://pegasus.invalid",
@@ -11,7 +11,7 @@
     "kit": {
       "url": "https://raw.githubusercontent.com/lolcaken/roblox-cdn/main/kit.zip",
       "version": "1.0.0",
-      "sha256": "75b3900ea493363e111c1b923bdfcbb5a3a3a5feeb8dbbb9c40711f9130e7de5"
+      "sha256": "43cc7638d48f01841af618686b42af380928e196788ad6b858173a840b7008c3"
     },
     "heartbeatMin": 15,
     "pollWaitSec": 20,
